@@ -1,6 +1,6 @@
 var config = {
 	repository: 'contentify',
-	username: 'thyb',
+	username: 'kshlm',
 	firebase_url: "",
 	algolia_key: ""
 };
