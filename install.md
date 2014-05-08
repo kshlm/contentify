@@ -16,6 +16,7 @@ You can edit in real time your documents with your Github collaborators by updat
     {
         ...
         firebase_url: 'xxxx-xxxx-xxxx.firebaseIO.com'
+        ...
     }
 
 That's it! You can start editing in real time with your collaborators.
